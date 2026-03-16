@@ -50,7 +50,7 @@ All results (saved plots, results) are saved in the directory specified by the "
 No-load transformer energization at the zero crossing of the primary voltage of the first phase (at the time t=0.095 s, towards the negative maximum)
 
 ## Language
-Please note that the source code was developed in a Slovenian research environment, therefore:
-  - Variable names are mostly named in Slovenian,
+The source code was developed in a Slovenian research environment; therefore:
+  - Variable names are mostly in Slovenian,
   - Script names were translated into English for easier understanding,
   - Key sections of the code include comments in both English and Slovenian. 
